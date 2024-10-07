@@ -2,4 +2,4 @@
 This is my first GitHub code 
 <br>
 <br>
-Myself Ankit Yadav and i am persuing BTech from kcc institute of technology and management at greater Noida. 
+Myself "Ankit Yadav" and i am persuing "BTech" from "KCC Institute of Technology and Management" at "Greater Noida". 
